@@ -15,8 +15,8 @@ PROXY_MODE = False
 DELAY_BETWEEN_ATTEMPTS = 3
 
 # Telegram कॉन्फिग (तुझं बोट टोकन आणि Chat ID टाक)
-TELEGRAM_BOT_TOKEN = "your_bot_token_here"
-CHAT_ID = "your_chat_id_here"
+TELEGRAM_BOT_TOKEN = "8474861805:AAGk_7SHh-x4fBF5exgixQXUWg2TVuuR_W0"
+CHAT_ID = "7991797378"
 
 # यूजर एजंट्स
 USER_AGENTS = [
